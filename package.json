@@ -1,0 +1,27 @@
+{
+  "name": "mingkwai-typewriter-companion",
+  "version": "1.0.0",
+  "description": "Ancillary stuff for mingkwai-typewriter",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loveencounterflow/mingkwai-typewriter-companion.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loveencounterflow/mingkwai-typewriter-companion/issues"
+  },
+  "homepage": "https://github.com/loveencounterflow/mingkwai-typewriter-companion#readme",
+  "dependencies": {
+    "better-sqlite3": "^5.4.0",
+    "cnd": "^4.5.0",
+    "icql": "^1.4.0",
+    "jaconv": "^1.0.4",
+    "pipedreams": "^7.6.1",
+    "pspg": "^1.1.1"
+  }
+}
